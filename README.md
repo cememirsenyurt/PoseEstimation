@@ -1,4 +1,4 @@
-#Pose Estimation using Mediapipe
+Pose Estimation using Mediapipe
 
 This repository contains a Python script that uses Mediapipe and OpenCV libraries to perform pose estimation on a video file. The script reads frames from the video file and applies pose estimation on each frame to detect the body posture of the person in the video.
 
@@ -10,7 +10,7 @@ You can install OpenCV and Mediapipe using pip:
 pip install opencv-python mediapipe
 
 
-#Usage
+Usage
 Clone this repository:
 git clone https://github.com/username/repo.git
 
