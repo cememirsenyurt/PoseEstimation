@@ -12,7 +12,7 @@ pip install opencv-python mediapipe
 
 Usage
 Clone this repository:
-git clone https://github.com/username/repo.git
+git clone https://github.com/cememirsenyurt/PoseEstimation
 
 Navigate to the directory:
 cd repo
